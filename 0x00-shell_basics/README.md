@@ -1,7 +1,11 @@
 Task 0/1 - Script that prints the absolute path name of the current working directory.
+
 Task 1 - Script that display the contents list of your current directory.
+
 Task 2 - Script that changes the working directory to the user’s home directory.
+
 Task 3 - Script that displays current directory contents in a long format.
+
 Task 4 - Script that display current directory contents, including hidden files (starting with .). Use the long format.
 Task 5 - Script that display current directory contents. (Long format; with user and group IDs displayed numerically; And hidden files (starting with .))
 Task 6 - Script that creates a directory named my_first_directory in the /tmp/ directory.
