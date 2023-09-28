@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
-s=0
+s=1
 until [ $s -gt 10 ]
 do
 	echo "Best School"
