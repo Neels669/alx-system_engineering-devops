@@ -31,7 +31,7 @@ def recurse(subreddit, hot_list=[]):
     """ recurse is a function that return hot list from
         a subreddit"""
     global after
-    headers = {'User-Agent': 'ledbag123'}
+    headers = {'User-Agent': 'Neels669'}
     url = "https://www.reddit.com/r/{}/hot.json".format(subreddit)
     parameters = {'after': after}
     response = requests.get(url, headers=headers, allow_redirects=False,
