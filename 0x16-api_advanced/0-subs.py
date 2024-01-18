@@ -7,7 +7,7 @@ import sys
 
 def number_of_subscribers(subreddit):
     """Read reddit API and return number subscribers """
-    username = 'ledbag123'
+    username = 'Neels669'
     password = 'Reddit72'
     user_pass_dict = {'user': username, 'passwd': password, 'api_type': 'json'}
     headers = {'user-agent': '/u/ledbag123 API Python for Holberton School'}

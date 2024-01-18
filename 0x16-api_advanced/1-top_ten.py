@@ -7,7 +7,7 @@ import sys
 
 def top_ten(subreddit):
     """Read reddit API and return top 10 hotspots """
-    username = 'ledbag123'
+    username = 'Neels669'
     password = 'Reddit72'
     user_pass_dict = {'user': username, 'passwd': password, 'api_type': 'json'}
     headers = {'user-agent': '/u/ledbag123 API Python for Holberton School'}
